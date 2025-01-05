@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Claire's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hi, I'm Claire—a passionate developer, designer, and innovator striving to create meaningful and impactful digital experiences.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Claire Guo Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://https://github.com/claireg0",
   },
 };
 
@@ -63,34 +63,27 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "AI/ML",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Integrating image recognition and generative AI to build applications like a web app that scans food, estimates expiry dates, and generates recipes using OpenAI APIs.",
+        "⚡ Developing automated hardware solutions by integrating image recognition with Raspberry Pi for tasks such as wildlife tracking and deterrence.",
+        "⚡ Implementing dynamic object tracking systems and generative features to deliver user-driven outputs, like personalized recipes and real-time suggestions.",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "OpenAI API",
+          fontAwesomeClassname: "mingcute:openai-fill",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "OpenCV",
+          fontAwesomeClassname: "file-icons:opencv",
           style: {
             backgroundColor: "white",
             color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
           },
         },
         {
@@ -101,19 +94,15 @@ const skills = {
             color: "#3776AB",
           },
         },
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
       ],
     },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using React.js and TailwindCSS",
+        "⚡ Developing iOS mobile applications using Swift",
+        "⚡ Creating web app backend in Flask, Python, and handling data in JSON format",
       ],
       softwareSkills: [
         {
@@ -131,10 +120,10 @@ const skills = {
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "TailwindCSS",
+          fontAwesomeClassname: "lineicons:tailwindcss",
           style: {
-            color: "#CC6699",
+            backgroundColor: "transparent",
           },
         },
         {
