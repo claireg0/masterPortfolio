@@ -2,7 +2,7 @@
   "private": true,
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://claireg0.github.io/home",
+  "homepage": "https://claireg0.github.io/my-portfolio/",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
