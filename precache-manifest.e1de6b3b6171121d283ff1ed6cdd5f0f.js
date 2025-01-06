@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d09f5fc7de84a58a00973c9bbcf7d28",
+    "revision": "fdaedd5336f62afdf7f1d778829bc938",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "3712023a1954fb770391",
+    "revision": "5f7195a96caceeabc78f",
     "url": "/my-portfolio/static/css/main.b5c7afa3.chunk.css"
   },
   {
-    "revision": "1ef766c49cc5126b040a",
-    "url": "/my-portfolio/static/js/2.e69b320d.chunk.js"
+    "revision": "77a9aa44fe0cae8fb04b",
+    "url": "/my-portfolio/static/js/2.b14b4c79.chunk.js"
   },
   {
-    "revision": "3712023a1954fb770391",
-    "url": "/my-portfolio/static/js/main.f58e9d39.chunk.js"
+    "revision": "5f7195a96caceeabc78f",
+    "url": "/my-portfolio/static/js/main.52aaf3cb.chunk.js"
   },
   {
     "revision": "a97890d6b89f40023546",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "57487c80416837e7b9e8de9ac2f3b710",
+    "url": "/my-portfolio/static/media/RHWOLCC.57487c80.png"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/my-portfolio/static/media/address_image.16559172.svg"
   },
@@ -66,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/my-portfolio/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "2252a472605d3359357a900c1533a70a",
+    "url": "/my-portfolio/static/media/claire.2252a472.png"
+  },
+  {
+    "revision": "8ce1f9460a355de560b34e5ddb791bdc",
+    "url": "/my-portfolio/static/media/claire.8ce1f946.jpeg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -90,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
     "url": "/my-portfolio/static/media/developerActivity.3e23ca14.svg"
+  },
+  {
+    "revision": "e69aca1f838293e4b1db60b26e20cbfd",
+    "url": "/my-portfolio/static/media/digitera.e69aca1f.jpeg"
   },
   {
     "revision": "63f707f224c8a842ac928c36e3be879a",
@@ -208,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/jsFramework.5b4a6449.svg"
   },
   {
+    "revision": "c4baaad1e24ab79352a92ca6d95917e5",
+    "url": "/my-portfolio/static/media/kumon.c4baaad1.png"
+  },
+  {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "/my-portfolio/static/media/legato_logo.c597fbde.png"
   },
@@ -240,6 +260,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "d7018fd2dbb8872dac513a7646981a2d",
+    "url": "/my-portfolio/static/media/relay4life.d7018fd2.webp"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/my-portfolio/static/media/stanford_logo.2c497738.png"
   },
@@ -258,5 +282,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/my-portfolio/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "e3dda0e5e380eaa83da7e4eb76861dd5",
+    "url": "/my-portfolio/static/media/uwaterloo.e3dda0e5.png"
   }
 ]);
